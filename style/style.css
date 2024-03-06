@@ -1,0 +1,43 @@
+/* Style for the form */
+.form-user {
+    margin: 0 auto;
+    width: 50%; /* Adjust the width as needed */
+}
+
+/* Style for the table inside the form */
+.form-user table {
+    width: 100%;
+}
+
+/* Style for form input fields */
+.form-user input[type="text"] {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+/* Style for the "Simpan" button */
+.tombol-simpan {
+    display: inline-block;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Style for the wrapper div */
+.wrap {
+    margin: 20px auto;
+    width: 80%; /* Adjust the width as needed */
+}
+
+/* Style for the div that displays data */
+.tampildata {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f2f2f2;
+}
